@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Outfit:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p {
+  color: white;
+}
+#CV {
+  width: 595px;
+  height: 842px;
+}
+#Banner {
+  overflow: hidden;
+  width: 595px;
+  height: 140px;
+}
+#Title {
+  display: flex;
+  background-color: #292929;
+  align-items: center;
+  padding: 20px 95px 20px 40px;
+  gap: 40px;
+  border-bottom: 1px;
+}
+#Photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+#Frame1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 320px;
+  height: 80px;
+  text-align: left;
+}
+#Generalinfo {
+  display: flex;
+  width: 595;
+  height: 702;
+}
+#Frame6 {
+  width: 227;
+  height: 702;
+  border-right-width: 0.5px;
+  background-color: #292929;
+}
+#Frame7 {
+  border: 1px solid rgb(255, 255, 255);
+  width: 227px;
+  height: 702px;
+  gap: 30px;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+#Software1 {
+  overflow: hidden;
+  width: 150px;
+  height: 182px;
+}
+#Profile1 {
+  width: 150px;
+  height: 30px;
+  gap: 10px;
+  border-bottom-width: 0.5px;
+  padding-bottom: 10px;
+}
+#Info-personal1 {
+  width: 150px;
+  height: 152px;
+}
+#Name1 {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Birthday {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Nationality {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Languages {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Contact1 {
+  margin-top: 30px;
+  width: 150px;
+  height: 164px;
+}
+#Contact2 {
+  width: 150px;
+  height: 30px;
+  gap: 10px;
+  border-bottom-width: 0.5px;
+  padding-bottom: 10px;
+}
+#Info-Personal2 {
+  width: 150px;
+  height: 134px;
+}
+#Email {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Web {
+  width: 150px;
+  height: 38px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#LinkedIn {
+  width: 150px;
+  height: 58px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#personal {
+  margin-top: 30px;
+  width: 150px;
+  height: 174px;
+}
+#Software2 {
+  width: 150px;
+  height: 30px;
+  gap: 10px;
+  border-bottom-width: 0.5px;
+  padding-bottom: 10px;
+}
+#AdobeIllustrator1 {
+  width: 150px;
+  height: 36px;
+}
+#Name2 {
+  width: 150px;
+  height: 36px;
+  gap: 5px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+#Adv {
+  width: 145px;
+  height: 8px;
+  border-radius: 4px;
+  background-color: #f4effd33;
+}
+#Name3 {
+  width: 150px;
+  height: 36px;
+  gap: 5px;
+  border-bottom-width: 0.2px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+.ADV {
+  margin-top: 10px;
+  width: 70%;
+  height: 100%;
+  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+.ADV1 {
+  margin-top: 10px;
+  width: 80%;
+  height: 100%;
+  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+.ADV2 {
+  margin-top: 10px;
+  width: 85%;
+  height: 100%;
+  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+.ADV3 {
+  margin-top: 10px;
+  width: 90%;
+  height: 100%;
+  background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+#Info {
+  border: 1px solid rgb(255, 255, 255);
+  width: 368px;
+  height: 702px;
+  background-color: #292929;
+}
+#Profile2 {
+  width: 368px;
+  height: 240px;
+  gap: 14px;
+  padding: 20px;
+}
+#Profile3 {
+  width: 328px;
+  height: 30px;
+  gap: 10px;
+  border-bottom-width: 0.5px;
+  padding-bottom: 10px;
+}
